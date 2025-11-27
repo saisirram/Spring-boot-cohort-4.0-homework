@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: cake.baker
+
+cake:
+  frosting: strawberry
+  syrup: chocolate
